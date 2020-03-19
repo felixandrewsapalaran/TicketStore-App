@@ -13,7 +13,9 @@ This program will keep looping till no more tickets left to sell
 
 ![](validationForNo.png)
 
-This shows when a user doesn't want to proceed
+This shows when a user doesn't want to proceed. 
 
 
-![](validationForNo.png)
+![](InvalidTicketValue.png)
+
+This error shows when a user enter an invalid value and tell the user specificly the type of error 
