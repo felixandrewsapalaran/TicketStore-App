@@ -19,3 +19,8 @@ This shows when a user doesn't want to proceed.
 ![](InvalidTicketValue.png)
 
 This error shows when a user enter an invalid value and tell the user specificly the type of error 
+
+
+![](ErrorExceedMaxValue.png)
+
+Error display when he user requested ticket is more than available
