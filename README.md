@@ -1,1 +1,3 @@
 # TicketStore-App
+
+![](SoldTickets.png)
